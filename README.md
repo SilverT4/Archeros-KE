@@ -4,11 +4,18 @@ This is the **source code** for the Friday Night Funkin': Vs. Archeros Mod. Look
 ## Mod credits:
 
 **Programmer** - devin503 | [Twitter](https://twitter.com/deggvin503) [GameBanana](https://gamebanana.com/members/1772834) 
+
 **Artists** - Swe ([Twitter](https://twitter.com/Yummy_sushi_yea))
+
 **Musicians** - BoriSss | [Twitter](https://twitter.com/dymmi3?s=09)
+
 **Charters** -
+
 **Playtesters (excluding programmer)** - 
 
+## Original Characters used
+
+(will be updated soon)
 
 # Kade Engine Original Description
 ![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
