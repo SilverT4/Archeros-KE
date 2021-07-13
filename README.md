@@ -3,7 +3,7 @@ This is the **source code** for the Friday Night Funkin': Vs. Archeros Mod. Look
 
 ## Mod credits (tap or click on our socials to view them):
 
-**Mod Creator** - | [Twitter](https://twitter.com/Tanywantshug)
+**Mod Creator** - Tanya | [Twitter](https://twitter.com/Tanywantshug)
 
 **Programmer** - devin503 | [Twitter](https://twitter.com/deggvin503) [GameBanana](https://gamebanana.com/members/1772834) [Reddit](https://reddit.com/user/iPuffle8822) 
 
