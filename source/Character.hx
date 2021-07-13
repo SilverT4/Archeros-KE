@@ -498,6 +498,7 @@ class Character extends FlxSprite
 				addOffset("singDOWN-alt", -30, -27);
 
 				playAnim('idle');
+			
 		}
 
 		dance();

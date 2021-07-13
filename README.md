@@ -1,13 +1,15 @@
 # Friday Night Funkin': Vs. Archeros Mod
 This is the **source code** for the Friday Night Funkin': Vs. Archeros Mod. Looking for the mod itself? Check [here](https://sites.google.com/view/devinpoggers/fnf-sauce-placeholder).
 
-## Mod credits:
+## Mod credits (tap or click on our socials to view them):
 
-**Programmer** - devin503 | [Twitter](https://twitter.com/deggvin503) [GameBanana](https://gamebanana.com/members/1772834) 
+**Mod Creator** - | [Twitter](https://twitter.com/Tanywantshug)
+
+**Programmer** - devin503 | [Twitter](https://twitter.com/deggvin503) [GameBanana](https://gamebanana.com/members/1772834) [Reddit](https://reddit.com/user/iPuffle8822) 
 
 **Artists** - Swe ([Twitter](https://twitter.com/Yummy_sushi_yea))
 
-**Musicians** - BoriSss | [Twitter](https://twitter.com/dymmi3?s=09)
+**Musicians** - BoriSss ([Twitter](https://twitter.com/dymmi3?s=09))
 
 **Charters** -
 
@@ -15,7 +17,13 @@ This is the **source code** for the Friday Night Funkin': Vs. Archeros Mod. Look
 
 ## Original Characters used
 
-(will be updated soon)
+Sweet (by Swe)
+
+![Sweet](assets/shared/images/extra/ocIcons/sweet.png)
+
+Tanya (by tanya)
+
+![Tanya](assets/shared/images/extra/ocIcons/tanya.png)
 
 # Kade Engine Original Description
 ![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)

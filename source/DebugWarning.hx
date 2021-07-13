@@ -25,6 +25,7 @@ class DebugWarning extends MusicBeatState
 	var curLang:String = "English";
 	var txt:FlxText;
 	var timeString:FlxText;
+	var exitString:FlxText;
 	var yourTime = DateTools.format(Date.now(), "%r");
 	
 	override public function create():Void
@@ -51,9 +52,13 @@ class DebugWarning extends MusicBeatState
 		add(langText);
 		timeString = new FlxText(0, 0, FlxG.width, yourTime, 32);
 		timeString.x = FlxG.width * 0.91;
-		timeString.y = FlxG.height * 0.9621;
+		timeString.y = FlxG.height * 0.9622;
 		timeString.setFormat(Paths.font("micross.ttf"), 16, FlxColor.BLACK, LEFT);
 		add(timeString);
+		exitString = new FlxText(0, 0, FlxG.width, "Press ESCAPE to exit.", 32);
+		exitString.setFormat(Paths.font("nintendo.ttf"), 32, FlxColor.fromRGB(0, 0, 0), LEFT);
+		exitString.y = FlxG.height * 0.9622;
+		add(exitString);
 		#end
 		}
 		
@@ -80,12 +85,14 @@ class DebugWarning extends MusicBeatState
 				curLang = "Portuguese";
 				txt.text = "Esta é uma versão de depuração do mod\ne deve ser apenas para fins de teste.\nSe você recebeu esta construção por " + programmerName + ", pressione ESPAÇO para continuar e testar o mod.";
 				langText.text = "Press 6 to view this message in English.";
+				exitString.text = "Pressione ESCAPE para sair.";
 			}
 			else if (FlxG.keys.justPressed.SIX && curLang == 'Portuguese')
 			{
 				curLang = "English";
 				txt.text = "This is a debug version of the mod, and should be for testing purposes only.\nIf you were sent this build by " + programmerName + ", press SPACE\nto continue and playtest the mod.";
 				langText.text = "Pressione 6 para ver esta mensagem em português.";
+				exitString.text = "Press ESCAPE to exit.";
 			}
 			
 			timeString.text = DateTools.format(Date.now(), "%r");
