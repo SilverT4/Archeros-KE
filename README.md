@@ -1,6 +1,6 @@
 # Friday Night Funkin': Vs. Archeros Mod
 This is the **source code** for the Friday Night Funkin': Vs. Archeros Mod. Looking for the mod itself? Check [here](https://sites.google.com/view/devinpoggers/fnf-sauce-placeholder).
-
+![burnt potato dog](assets/shared/images/extra/memes/potato.jpg)
 ## Mod credits (tap or click on our socials to view them):
 
 **Mod Creator** - Tanya | [Twitter](https://twitter.com/Tanywantshug)
